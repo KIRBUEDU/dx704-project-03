@@ -1,0 +1,2 @@
+ I chose a regret-minimization approach because our goal is to maximize long-term
+reward. This balances exploration with  exploitation until the best one  is identified.
